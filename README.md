@@ -1,4 +1,6 @@
-### Hi there 👋
+I am a Lecturer in the Department of Statistics at the University of Michigan, Ann Arbor.
+
+I received my Ph.D. (2018) in Statistics from the University of Illinois at Urbana-Champaign.  I received a B.A. in Government and Computer Science from Claremont McKenna College. My research interests include causal inference, network analysis, computational methods, and statistical software. I also hold an M.A. in Political Science from UIUC and frequently draw inspiration for statistical applications from social science and public policy research questions.
 
 <!--
 **markmfredrickson/markmfredrickson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
